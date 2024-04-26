@@ -1,0 +1,15 @@
+.c{
+    font-size: 30px;
+    color: rgb(94, 37, 201);
+}
+.d{
+    font-size: 30px;
+    color:rgb(94, 37, 201);
+}
+.g{
+    background:linear-gradient(to bottom right,lightgreen,mediumaquamarine,lightgreen);
+    border-color:outset black;
+    border-style:double;
+    border-width:10px;
+    padding:20px;
+}

@@ -1,0 +1,19 @@
+.A{background-image:linear-gradient(to bottom right,lightgreen,mediumaquamarine,lightgreen);
+    border-color:outset black;
+    border-style:double;
+    border-width:10px;
+    padding:20px;
+   }
+ .B{background-color:rgb(4,104,71);
+    color:ivory;
+    text-align:center;
+    font-size:xx-large;
+    border-radius:10px;
+    padding:10px;
+   }
+ .C{
+    font-size:25px;
+   }
+ .D{
+    font-size:25px;
+   }
